@@ -218,6 +218,9 @@ Courses Style
     .courses {
         grid-template-columns: repeat(1, 1fr);
     }
+    .top-payer h2{
+        text-align: center;
+    }
     .player,
     .blog {
         flex-direction: column;
